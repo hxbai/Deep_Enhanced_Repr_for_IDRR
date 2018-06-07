@@ -41,7 +41,7 @@ The pre-trained parameter weights can be downloaded by
 
 [https://drive.google.com/file/d/1cYzVtgA82oZW5N9hz0yIPnH8z2MjHTDW/view?usp=sharing]
 
-put the `weights` directory to `./`.
+Unzip it and put the `weights` directory to `./`.
 
 The results are higher than the reported results in the paper since the reported results are averaged.
 
