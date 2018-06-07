@@ -37,7 +37,7 @@ means evaluating with pre-trained parameters for PDTB-Ji 11-way classification.
 
 ## Pre-trained parameters
 
-The pre-trained parameter weights can be downloaded by
+The pre-trained parameter weights can be downloaded at
 
 [https://drive.google.com/file/d/1cYzVtgA82oZW5N9hz0yIPnH8z2MjHTDW/view?usp=sharing]
 
