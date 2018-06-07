@@ -47,6 +47,7 @@ The results are higher than the reported results in the paper since the reported
 
 ## Requirements
 
+        python == 3.6.4
         nltk == 3.2.5
         numpy == 1.14.2
         gensim == 3.1.0
